@@ -4,4 +4,4 @@ version=
 versionCode=
 author=yashdsaraf
 description=Busybox built using custom uClibc toolchains by @YashdSaraf on xda-developers.com, see bit.ly/bbxyds for details
-minMagisk=1500
+minMagisk=17000
